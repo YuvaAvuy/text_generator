@@ -16,7 +16,7 @@ def get_gemini_response(question):
     return response
 
 def main():
-    st.title("Yuva's LLM Application")
+    st.title("TEXT-GENERATOR")
     st.write("Input: ")
 
     chat_history = []
